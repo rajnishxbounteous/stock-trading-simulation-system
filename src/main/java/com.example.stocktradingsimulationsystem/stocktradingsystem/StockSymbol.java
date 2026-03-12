@@ -1,4 +1,4 @@
-package com.example.stocktradingsimulationsystem;
+package com.example.stocktradingsimulationsystem.stocktradingsystem;
 
 /**
  * Enum representing supported stock symbols in the trading system.

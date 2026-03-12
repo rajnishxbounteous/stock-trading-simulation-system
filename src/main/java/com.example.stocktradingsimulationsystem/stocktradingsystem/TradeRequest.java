@@ -1,4 +1,4 @@
-package com.trading.domain;
+package com.example.stocktradingsimulationsystem.stocktradingsystem;
 
 /**
  * Represents a trade request made by a user.

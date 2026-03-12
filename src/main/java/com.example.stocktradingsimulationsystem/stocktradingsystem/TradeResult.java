@@ -1,4 +1,4 @@
-package com.trading.domain;
+package com.example.stocktradingsimulationsystem.stocktradingsystem;
 
 /**
  * Represents the result of processing a trade request.

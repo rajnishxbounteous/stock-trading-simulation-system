@@ -1,4 +1,4 @@
-package com.trading.domain;
+package com.example.stocktradingsimulationsystem.stocktradingsystem;
 
 /**
  * Enum representing the type of trade request.

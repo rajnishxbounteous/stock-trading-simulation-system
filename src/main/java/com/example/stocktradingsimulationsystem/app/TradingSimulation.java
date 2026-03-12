@@ -1,7 +1,9 @@
-package com.trading.app;
+package com.example.stocktradingsimulationsystem.app;
 
-import com.trading.domain.*;
-import com.trading.service.TradeProcessor;
+import com.example.stocktradingsimulationsystem.stocktradingsystem.*;
+import com.example.stocktradingsimulationsystem.service.*;
+import com.example.stocktradingsimulationsystem.service.TradeProcessor;
+
 
 import java.util.*;
 

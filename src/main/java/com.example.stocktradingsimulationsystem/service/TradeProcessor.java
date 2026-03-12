@@ -1,6 +1,7 @@
-package com.trading.service;
+package com.example.stocktradingsimulationsystem.service;
 
-import com.trading.domain.*;
+//import com.example.stocktradingsimulationsystem;
+import com.example.stocktradingsimulationsystem.stocktradingsystem.*;
 
 import java.util.*;
 import java.util.concurrent.*;
